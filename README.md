@@ -60,6 +60,26 @@ The analysis explores how different platforms, content types, topics, hashtags, 
 - Correlation analysis identifies associations, not causation.
 - Findings are based on the available 2024 dataset.
 
+## Visualizations
+
+### 1. Platform-wise Engagement
+![Platform Analysis](visuals/platform_analysis.png)
+
+### 2. Content Type Analysis
+![Content Analysis](visuals/content_analysis.png)
+
+### 3. Monthly Engagement Trends
+![Monthly Trend](visuals/monthly_trend.png)
+
+### 4. Topic-wise Engagement
+![Topic Analysis](visuals/topic_analysis.png)
+
+### 5. Hashtag Performance
+![Hashtag Analysis](visuals/hashtag_analysis.png)
+
+### 6. Viral vs Non-Viral Analysis
+![Viral Analysis](visuals/viral_analysis.png)
+
 ## Conclusion
 
 The project demonstrates how exploratory data analysis can uncover useful social media engagement patterns. By analyzing platform performance, content formats, topics, hashtags, sentiment, and viral status, businesses can develop more informed content strategies.
